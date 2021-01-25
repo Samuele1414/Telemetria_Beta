@@ -1,5 +1,5 @@
 
-
+<!-- FRAME -->
 		<frameset rows="5%,83%,13%">
 		   <frame name="top" src="frame1.php" />
 			<frameset cols="80%,20%">
